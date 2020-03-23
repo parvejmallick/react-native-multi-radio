@@ -1,0 +1,20 @@
+{
+  "name": "react-native-multi-radio",
+  "version": "1.0.1",
+  "description": "React Native radio group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "radio-group",
+    "Android",
+    "iOS"
+  ],
+  "author": "Parvej Mallick",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  }
+}
