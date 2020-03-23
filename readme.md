@@ -74,7 +74,7 @@ radioChange = (val) => {
 License
 ----
 
-ISC
+MIT
 
 
 **Free Package, Hell Yeah!**
