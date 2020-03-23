@@ -1,4 +1,7 @@
 # Basics Usage
+![](https://raw.githubusercontent.com/parvejmallick/react-native-multi-radio/master/screen.jpeg)
+![](https://raw.githubusercontent.com/parvejmallick/react-native-multi-radio/master/screen1.jpeg)
+
 ### Import
 ```js
 import  { RadioGroup }  from 'react-native-multi-radio';
