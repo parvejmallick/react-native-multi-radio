@@ -12,11 +12,9 @@ export default {
     borderRadius: 50,
   },
   radioText: {
-    fontFamily: 'blissPro-bold',
   },
   radioContainer: {
     flexDirection: 'row',
-    justifyContent: 'space-between',
     alignItems: 'center',
   },
 

@@ -1,6 +1,6 @@
 {
   "name": "react-native-multi-radio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Native radio group",
   "main": "index.js",
   "scripts": {
